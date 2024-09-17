@@ -2,6 +2,8 @@
 
 **E-Learning SmartStudy** is a web-based e-learning platform aimed at enhancing the quality of education through innovative technology. This website is specifically designed to provide an effective, interactive, and user-friendly learning experience for university students. With its standout features, SmartStudy allows users to learn flexibly and accessibly at any time.
 
+![E-Learning SmartStudy Preview](Home%20Page.jpg)
+
 ## Key Features
 
 - **Registration and Login:** Users can create a new account or log in to their existing accounts to access learning content.
